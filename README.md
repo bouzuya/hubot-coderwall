@@ -2,7 +2,7 @@
 
 A Hubot script that calls the coderwall profile API
 
-![](http://img.f.hatena.ne.jp/images/fotolife/b/bouzuya/20141004/20141004071214.gif)
+![](http://img.f.hatena.ne.jp/images/fotolife/b/bouzuya/20141004/20141004071827.gif)
 
 ## Installation
 
