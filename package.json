@@ -1,6 +1,6 @@
 {
   "name": "hubot-coderwall",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Hubot script that calls the coderwall profile API",
   "main": "index.js",
   "scripts": {
