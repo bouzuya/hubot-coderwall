@@ -19,7 +19,7 @@ or
       hubot> hubot coderwall <username> - calls the coderwall profile API
 
     bouzuya> hubot coderwall bouzuya
-      hubot> http://coderwall.com/bouzuya
+      hubot> https://coderwall.com/bouzuya
              github: https://github.com/bouzuya
              badges: 16 (1/4)
              [1] 2014-07-02T02:17:54Z {Kona} Have at least one original repo where CoffeeScript is the dominant language
