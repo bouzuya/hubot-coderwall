@@ -25,7 +25,7 @@ module.exports = (robot) ->
       """
     .join '\n'
     message = """
-      http://coderwall.com/#{profile.username}
+      https://coderwall.com/#{profile.username}
       github: https://github.com/#{profile.accounts.github}
       badges: #{profile.badges.length} (#{pager.page}/#{pager.pages})
       #{badgesString}
